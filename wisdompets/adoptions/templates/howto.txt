@@ -1,0 +1,4 @@
+#How to edit your templates:
+#variable : {{ variable }}
+#template tag : (for loops, ifs, etc):
+#variable piping : {{variable|filter}}
